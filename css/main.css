@@ -1,3 +1,71 @@
+:root {
+    --item-separation-color: rgba(255, 255, 255, 0.3);
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #c2e7f2;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #4159a7;
+    border-radius: 10px;
+}
+
+body {
+    /* この3項目と、「mainの"flex:1："」でヘッダーを固定する */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+
+    font-family: "Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W3", sans-serif;
+    line-height: 1.5;
+}
+
+main {
+    flex: 1;
+    max-width: 1600px;
+    margin: auto;
+    /* background-color: wheat; */
+}
+
+.character-list {
+    display: flex;
+}
+
 .character {
     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 400px;
+}
+
+.job-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+/* 見出し（職業、覚醒タイプ） */
+.job-title,
+.awakening-title {
+    color: #808080;
+    font-size: 14px;
+}
+
+/* 職業のアイコン画像 */
+.job-wrapper>div>img {
+    border-radius: 10px;
+}
+
+footer {
+    background-color: #521317;
+    color: #fff;
+    text-align: center;
+    padding: 15px 0;
 }

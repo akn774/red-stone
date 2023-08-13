@@ -4,34 +4,69 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RS キャラ</title>
+
+    <link rel="icon" type="image/png" href="./images/favicon.png">
+    <title>RED STONE 職業別装備一覧</title>
+    <!-- java script -->
     <script src="./js/main.js" defer></script>
+    <!-- css -->
+    <link rel="stylesheet" href="https://unpkg.com/ress/dist/ress.min.css" />
+    <link rel="stylesheet" href="./css/main.css">
+    <!-- web fonts -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Philosopher&display=swap">
 </head>
 
 <body>
-    <p>知識１００：スキル１の法則</p>
-    <p>（知識１万なら、スキル＋１００）</p>
+    <main>
 
-    <div class="character">
-        <div>
-            <p class="job"></p>
+        <p>900Lv位</p>
+
+        <div class="character-list">
+            <div class="character">
+                <div class="job-wrapper">
+                    <div>
+                        <img src="./image/icon04.jpg" alt="">
+                    </div>
+                    <div>
+                        <p class="job-title">職業</p>
+                        <p class="job"></p>
+                    </div>
+                    <div>
+                        <p class="awakening-title">覚醒タイプ</p>
+                        <p class="awakening"></p>
+                    </div>
+                </div>
+                <div class="equipment">
+                    <p class="weapon"></p>
+                    <p class="sub_weapon"></p>
+                    <p class="neck"></p>
+                    <p class="head"></p>
+                    <p class="earrings"></p>
+                    <p class="belt"></p>
+                    <p class="glove"></p>
+                    <p class="armor"></p>
+                    <p class="feet"></p>
+                    <p class="ring"></p>
+                </div>
+            </div>
         </div>
         <div>
-            <p class="awakening"></p>
+            <p>知識１００：スキル１の法則</p>
+            <p>（知識１万なら、スキル＋１００）</p>
         </div>
-        <div class="equipment">
-            <p class="weapon"></p>
-            <p class="sub_weapon"></p>
-            <p class="neck"></p>
-            <p class="head"></p>
-            <p class="earrings"></p>
-            <p class="belt"></p>
-            <p class="glove"></p>
-            <p class="armor"></p>
-            <p class="feet"></p>
-            <p class="ring"></p>
-        </div>
-    </div>
+
+    </main>
+    <!-- フッター -->
+    <footer>
+        <p>
+            当サイトで利用している画像及びデータは、株式会社ゲームオンに帰属します。<br>
+            許可無くご利用又は転用になられる事は出来ませんので、予めご了承下さい。<br>
+            <br>
+            <a href="https://members.redsonline.jp/" target="_blank"><img src="./images/redfan_150_50.gif"
+                    alt=""></a><br>
+            Copyright (c) L&K Co., Ltd. All Rights Reserved. License to GameOn Co., Ltd.<br>
+        </p>
+    </footer>
 </body>
 
 </html>
