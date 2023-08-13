@@ -1,4 +1,4 @@
-fetch ('./data/character.json')
+fetch ('../data/character.json')
   .then (response => response.json ())
   .then (result => {
     // 受け取ったJSONを元に、HTMLオブジェクトを生成し、htmlファイルに追加する。
