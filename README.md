@@ -1,6 +1,6 @@
-# RED-STONE 900Lv前後の装備案 GithubPages公開用リポジトリ
+# RED-STONE 900Lv位の装備案 GithubPages用
  
-MMORPG「RED STONE」における、900Lv前後の装備案をまとめたリポジトリです。
+MMORPG「RED STONE」における、900Lv前後の装備案をまとめたリポジトリです。<br>
 GitHub Pagesで公開していますが、個人で使うために作成したものです。
  
 # DEMO
@@ -11,8 +11,7 @@ GitHub Pagesで公開していますが、個人で使うために作成した�
  
 ポイント、差別化（今はとくになし）
  
-```
- 
 # Note
  
 注意点など（今はとくになし）
+ 
