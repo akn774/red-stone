@@ -1,5 +1,6 @@
 [
     {
+        "image": "icon01.jpg",
         "job": "剣士",
         "awakening": "幻影の剣士",
         "equipment": {
@@ -17,6 +18,7 @@
         "evaluation": 1
     },
     {
+        "image": "icon01.jpg",
         "job": "剣士",
         "awakening": "嵐の剣士",
         "equipment": {
@@ -34,6 +36,7 @@
         "evaluation": 3
     },
     {
+        "image": "icon01.jpg",
         "job": "剣士",
         "awakening": "鋼の剣士",
         "equipment": {
@@ -51,6 +54,7 @@
         "evaluation": 0
     },
     {
+        "image": "icon02.jpg",
         "job": "戦士",
         "awakening": "疾風の戦士",
         "equipment": {
@@ -68,6 +72,7 @@
         "evaluation": 0
     },
     {
+        "image": "icon02.jpg",
         "job": "戦士",
         "awakening": "魔性の戦士",
         "equipment": {
@@ -85,6 +90,7 @@
         "evaluation": 2
     },
     {
+        "image": "icon02.jpg",
         "job": "戦士",
         "awakening": "無双の戦士",
         "equipment": {
@@ -102,6 +108,7 @@
         "evaluation": 3
     },
     {
+        "image": "icon04.jpg",
         "job": "アーチャー",
         "awakening": "シャープシューター",
         "equipment": {
@@ -119,6 +126,7 @@
         "evaluation": 0
     },
     {
+        "image": "icon04.jpg",
         "job": "アーチャー",
         "awakening": "アケインスナイパー",
         "equipment": {
@@ -136,6 +144,7 @@
         "evaluation": 2
     },
     {
+        "image": "icon04.jpg",
         "job": "アーチャー",
         "awakening": "ローチングアンブッシャ",
         "equipment": {
@@ -151,5 +160,1247 @@
             "ring": ""
         },
         "evaluation": 3
+    },
+    {
+        "image": "icon03.jpg",
+        "job": "ランサー",
+        "awakening": "ヴァンガードキャバリエ",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon03.jpg",
+        "job": "ランサー",
+        "awakening": "エレメンタルランサー",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 2
+    },
+    {
+        "image": "icon03.jpg",
+        "job": "ランサー",
+        "awakening": "ロージングヴァルキリー",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 3
+    },
+    {
+        "image": "icon05.jpg",
+        "job": "ウィザード",
+        "awakening": "爆炎の大魔導師",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon05.jpg",
+        "job": "ウィザード",
+        "awakening": "氷嵐の大魔導師",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon05.jpg",
+        "job": "ウィザード",
+        "awakening": "猛撃の大魔導師",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon06.jpg",
+        "job": "ウルフマン",
+        "awakening": "ブラッディバーサーカー",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon06.jpg",
+        "job": "ウルフマン",
+        "awakening": "フレイムバーサーカー",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon06.jpg",
+        "job": "ウルフマン",
+        "awakening": "ルナティックバーサーカー",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon07.jpg",
+        "job": "ビショップ",
+        "awakening": "ディバインエクソシスト",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon07.jpg",
+        "job": "ビショップ",
+        "awakening": "セイクリッドディフェンダー",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon07.jpg",
+        "job": "ビショップ",
+        "awakening": "グロリアスエイダー",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon08.jpg",
+        "job": "追放天使",
+        "awakening": "ホーリーミッショナリー",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon08.jpg",
+        "job": "追放天使",
+        "awakening": "セイントパニッシャー",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon08.jpg",
+        "job": "追放天使",
+        "awakening": "スピリットガイド",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon09.jpg",
+        "job": "テイマー",
+        "awakening": "慈愛の民",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon09.jpg",
+        "job": "テイマー",
+        "awakening": "信望の民",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon09.jpg",
+        "job": "テイマー",
+        "awakening": "真心の民",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon10.jpg",
+        "job": "サマナー",
+        "awakening": "導きの楽士",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon10.jpg",
+        "job": "サマナー",
+        "awakening": "太陽と風の楽士",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon10.jpg",
+        "job": "サマナー",
+        "awakening": "海と大地の楽士",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon11.jpg",
+        "job": "武道",
+        "awakening": "ダイヤモンドアームズ",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon11.jpg",
+        "job": "武道",
+        "awakening": "ライトニングストライカー",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon11.jpg",
+        "job": "武道",
+        "awakening": "オーラマスター",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon12.jpg",
+        "job": "シーフ",
+        "awakening": "ヴェノムスローアー",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon12.jpg",
+        "job": "シーフ",
+        "awakening": "サイレントトラッパー",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon12.jpg",
+        "job": "シーフ",
+        "awakening": "シャドウインフェルノ",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon13.jpg",
+        "job": "プリンセス",
+        "awakening": "フォースクイーン",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon13.jpg",
+        "job": "プリンセス",
+        "awakening": "ケイオスクイーン",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon13.jpg",
+        "job": "プリンセス",
+        "awakening": "トランスクイーン",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon14.jpg",
+        "job": "リトル",
+        "awakening": "アクションスター",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon14.jpg",
+        "job": "リトル",
+        "awakening": "エンターテイナー",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon14.jpg",
+        "job": "リトル",
+        "awakening": "スーパーアイドル",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon15.jpg",
+        "job": "ネクロ",
+        "awakening": "ストレンジコンジュラー",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon15.jpg",
+        "job": "ネクロ",
+        "awakening": "ウィキッドサイコロジスト",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon15.jpg",
+        "job": "ネクロ",
+        "awakening": "デモニックチューナー",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon16.jpg",
+        "job": "悪魔",
+        "awakening": "アンタッチャブルボンテージ",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon16.jpg",
+        "job": "悪魔",
+        "awakening": "アンジャストラバー",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon16.jpg",
+        "job": "悪魔",
+        "awakening": "アラクノエンプレス",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon17.jpg",
+        "job": "霊術師",
+        "awakening": "シャーマンオブウィンド",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon17.jpg",
+        "job": "霊術師",
+        "awakening": "ソウルコントローラー",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon17.jpg",
+        "job": "霊術師",
+        "awakening": "スピリットインプリケイショナ",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon18.jpg",
+        "job": "闘士",
+        "awakening": "フォースグラップラー",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon18.jpg",
+        "job": "闘士",
+        "awakening": "ダンシングレイジス",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon18.jpg",
+        "job": "闘士",
+        "awakening": "ファーストアブソーバ",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon19.jpg",
+        "job": "光奏師",
+        "awakening": "ルミナスモナーク",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon19.jpg",
+        "job": "光奏師",
+        "awakening": "クリスタルオペレータ",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon19.jpg",
+        "job": "光奏師",
+        "awakening": "ラディアンスコーディネーター",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon20.jpg",
+        "job": "獣人",
+        "awakening": "イリュージョナリーアサルター",
+        "equipment": {
+            "weapon": "DOP（Tダメ120）牽牛",
+            "sub_weapon": "[極意の]光弱化50ブロ",
+            "neck": "WHP or WRS, [極意の]",
+            "head": "T全吸収精霊王",
+            "earrings": "[極意の][獣]オーラクローク",
+            "belt": "[遺物]ヘクターの誇り",
+            "glove": "運運[極意の]栄光の手袋",
+            "armor": "[極意の]カスタムオーダー",
+            "feet": "T忍耐スタチュー",
+            "ring": "TRSや混沌指で補強"
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon20.jpg",
+        "job": "獣人",
+        "awakening": "スラッシングスプリッター",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon20.jpg",
+        "job": "獣人",
+        "awakening": "ラストラスピアサー",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon21.jpg",
+        "job": "メイド",
+        "awakening": "マジェスティックサーバント",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon21.jpg",
+        "job": "メイド",
+        "awakening": "ルナティックサーバント",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon21.jpg",
+        "job": "メイド",
+        "awakening": "アージェントサーバント",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon22.jpg",
+        "job": "黒魔術師",
+        "awakening": "ディアボリックレディ",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon22.jpg",
+        "job": "黒魔術師",
+        "awakening": "オブセッショナルチェイサー",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon22.jpg",
+        "job": "黒魔術師",
+        "awakening": "ラプチュラスエンチャントレス",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon23.jpg",
+        "job": "マスケッティア",
+        "awakening": "ラピッドデスペラード",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon23.jpg",
+        "job": "マスケッティア",
+        "awakening": "アブソリュートヒーター",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon23.jpg",
+        "job": "マスケッティア",
+        "awakening": "アルティメットエンフォーサー",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon24.jpg",
+        "job": "アルケミスト",
+        "awakening": "バーストマニアック",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon24.jpg",
+        "job": "アルケミスト",
+        "awakening": "ホムンクルスマイスター",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon24.jpg",
+        "job": "アルケミスト",
+        "awakening": "クロニクルスカラー",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon25.jpg",
+        "job": "キャプテン",
+        "awakening": "ワールウィンド",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon25.jpg",
+        "job": "キャプテン",
+        "awakening": "レイジングウェーブ",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "icon25.jpg",
+        "job": "キャプテン",
+        "awakening": "チェイスストライカー",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "hatena.png",
+        "job": "キャプテンの裏職",
+        "awakening": "",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "hatena.png",
+        "job": "キャプテンの裏職",
+        "awakening": "",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
+    },
+    {
+        "image": "hatena.png",
+        "job": "キャプテンの裏職",
+        "awakening": "",
+        "equipment": {
+            "weapon": "",
+            "sub_weapon": "",
+            "neck": "",
+            "head": "",
+            "earrings": "",
+            "belt": "",
+            "glove": "",
+            "armor": "",
+            "feet": "",
+            "ring": ""
+        },
+        "evaluation": 0
     }
 ]

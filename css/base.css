@@ -1,0 +1,45 @@
+:root {
+    --item-separation-color: rgba(255, 255, 255, 0.3);
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #c2e7f2;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #4159a7;
+    border-radius: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+body {
+    /* この3項目と、「mainの"flex:1："」でヘッダーを固定する */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+
+    font-family: "Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W3", sans-serif;
+    line-height: 1.5;
+}
+
+main {
+    flex: 1;
+    max-width: 1720px;
+    margin: 30px auto;
+}
+
+footer {
+    background-color: #521317;
+    color: #fff;
+    text-align: center;
+    padding: 15px 0;
+}

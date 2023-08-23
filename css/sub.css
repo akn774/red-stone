@@ -1,17 +1,9 @@
-.character-list {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    column-gap: 10px;
-    row-gap: 60px;
-    margin: 30px;
-}
-
 .character {
     display: flex;
     flex-direction: column;
     justify-content: center;
     max-width: 400px;
+    margin: auto;
 }
 
 .job-wrapper {
@@ -41,4 +33,15 @@
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+}
+
+.equipments {
+    color: #fff;
+    background-color: #153434;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 30px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
 }
