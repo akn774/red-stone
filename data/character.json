@@ -303,7 +303,7 @@
         },
         "evaluation": 0,
         "tag": {
-            "attack_type": "物理",
+            "attack_type": "知識",
             "attack_range": "範囲"
         }
     },
@@ -612,7 +612,8 @@
         "evaluation": 0,
         "tag": {
             "attack_type": "知識",
-            "attack_range": "範囲"
+            "attack_range": "範囲",
+            "other": "召喚獣3体"
         }
     },
     {
@@ -919,7 +920,7 @@
         },
         "evaluation": 0,
         "tag": {
-            "attack_type": "？？？",
+            "attack_type": "支援キャラ",
             "attack_range": ""
         }
     },
