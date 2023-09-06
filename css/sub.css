@@ -1,16 +1,18 @@
+@import url("custom-properties.css");
+
 .character {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    max-width: 400px;
-    margin: auto;
+    max-width: 240px;
+    margin: 48px 0;
 }
 
 .job-wrapper {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 10px;
+    gap: 8px;
 }
 
 /* 見出し（職業、覚醒タイプ） */
@@ -38,10 +40,10 @@
 .equipments {
     color: #fff;
     background-color: #153434;
-    padding: 10px;
+    padding: 8px;
     border-radius: 20px;
-    margin: 30px;
+    margin: 32px;
     display: flex;
     flex-direction: column;
-    row-gap: 10px;
+    row-gap: 8px;
 }

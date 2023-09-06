@@ -1,5 +1,5 @@
+// JSON 読み込み・表示
 fetch ('./data/character.json')
-  // .then (response => response.json ())
   .then (response => {
     //ステータスが ok であればレスポンスを JSON として解析
     if (response.ok) {
@@ -17,20 +17,34 @@ fetch ('./data/character.json')
     characters.forEach ((character, index) => {
       //キャラクターごとの div 要素の HTML
       const characterDiv = `
-      <a href="./sub.html?No=${index}">
+      <a href="./sub.html?No=${index}" class="character-wrapper">
         <div class="character">
-          <div class="job-wrapper">
+          <div class="icon">
             <div>
+              <div class="rotate-circle"></div>
               <img src="./image/${character.image}" alt="">
             </div>
+          </div>
+          <div class="info">
             <div>
-              <div>
-                <p class="job-title">職業</p>
-                <p class="job">${character.job}</p>
-              </div>
-              <div>
-                <p class="awakening-title">覚醒タイプ</p>
-                <p class="awakening">${character.awakening}</p>
+              <p class="info-title">職業</p>
+              <p class="info-text job">${character.job}</p>
+            </div>
+            <div>
+              <p class="info-title">覚醒</p>
+              <p class="info-text awakening">${character.awakening}</p>
+            </div>
+            <div>
+              <p class="info-title">備考</p>
+              <div class="tag-wrapper">
+                ${Object.keys (character.tag)
+                  .map (
+                    key =>
+                      character.tag[key]
+                        ? `<p class="tag">${character.tag[key]}</p>`
+                        : ''
+                  )
+                  .join ('')}
               </div>
             </div>
           </div>
@@ -50,3 +64,12 @@ fetch ('./data/character.json')
   .catch (error => {
     console.error ('エラー:', error);
   });
+
+// // 値を正規化する関数
+// function isEmpty (str) {
+//   if (!str || str.length == 0) {
+//     return true;
+//   } else {
+//     return false;
+//   }
+// }

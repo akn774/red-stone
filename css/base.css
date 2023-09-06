@@ -1,9 +1,8 @@
-:root {
-    --item-separation-color: rgba(255, 255, 255, 0.3);
-}
+@import url("custom-properties.css");
 
 ::-webkit-scrollbar {
     width: 8px;
+    height: 8px;
 }
 
 ::-webkit-scrollbar-track {
@@ -16,6 +15,11 @@
     border-radius: 10px;
 }
 
+
+html {
+    overflow-y: scroll;
+}
+
 a {
     text-decoration: none;
     color: inherit;
@@ -26,20 +30,27 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    font-family: var(--font-family);
+    font-weight: var(--font-weight);
+    font-size: var(--font-size);
+    line-height: 1.75;
 
-    font-family: "Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W3", sans-serif;
-    line-height: 1.5;
-}
+    & header {
+        width: 400px;
+        margin: auto;
+    }
 
-main {
-    flex: 1;
-    max-width: 1720px;
-    margin: 30px auto;
-}
+    & main {
+        flex: 1;
+        max-width: 1580px;
+        margin: 48px auto;
+        padding: 16px;
+    }
 
-footer {
-    background-color: #521317;
-    color: #fff;
-    text-align: center;
-    padding: 15px 0;
+    & footer {
+        background-color: var(--rs-main-color);
+        color: #fff;
+        text-align: center;
+        padding: 16px 0;
+    }
 }

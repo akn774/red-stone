@@ -15,7 +15,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 1
+        "evaluation": 1,
+        "tag": {
+            "attack_type": "物理",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon01.jpg",
@@ -33,7 +37,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 3
+        "evaluation": 3,
+        "tag": {
+            "attack_type": "知識",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon01.jpg",
@@ -51,7 +59,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "物理",
+            "attack_range": "単体"
+        }
     },
     {
         "image": "icon02.jpg",
@@ -69,7 +81,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "物理",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon02.jpg",
@@ -87,7 +103,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 2
+        "evaluation": 2,
+        "tag": {
+            "attack_type": "知識",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon02.jpg",
@@ -105,7 +125,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 3
+        "evaluation": 3,
+        "tag": {
+            "attack_type": "物理",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon04.jpg",
@@ -123,7 +147,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "物理",
+            "attack_range": "単体(スプレッド微範囲)"
+        }
     },
     {
         "image": "icon04.jpg",
@@ -141,7 +169,11 @@
             "feet": "T忍耐バッサ or 致命打抵抗ULT+W忍耐ピンクシューズ",
             "ring": "TRSULT太極4～5個、T知識太極。エクぺリと致命打・決定打抵抗稼ぐ指など"
         },
-        "evaluation": 2
+        "evaluation": 2,
+        "tag": {
+            "attack_type": "知識",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon04.jpg",
@@ -159,7 +191,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 3
+        "evaluation": 3,
+        "tag": {
+            "attack_type": "物理",
+            "attack_range": "範囲(近距離)"
+        }
     },
     {
         "image": "icon03.jpg",
@@ -177,7 +213,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "物理",
+            "attack_range": "単体"
+        }
     },
     {
         "image": "icon03.jpg",
@@ -195,7 +235,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 2
+        "evaluation": 2,
+        "tag": {
+            "attack_type": "知識",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon03.jpg",
@@ -213,7 +257,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 3
+        "evaluation": 3,
+        "tag": {
+            "attack_type": "物理",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon05.jpg",
@@ -231,7 +279,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "知識",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon05.jpg",
@@ -249,7 +301,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "物理",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon05.jpg",
@@ -267,7 +323,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "物理",
+            "attack_range": "単体"
+        }
     },
     {
         "image": "icon06.jpg",
@@ -285,7 +345,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "物理",
+            "attack_range": "単体"
+        }
     },
     {
         "image": "icon06.jpg",
@@ -303,7 +367,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "知識",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon06.jpg",
@@ -321,7 +389,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "物理",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon07.jpg",
@@ -339,7 +411,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "物理",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon07.jpg",
@@ -357,7 +433,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "知識",
+            "attack_range": "範囲(カウンターパッシブ)"
+        }
     },
     {
         "image": "icon07.jpg",
@@ -375,7 +455,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "知識",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon08.jpg",
@@ -393,7 +477,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "物理",
+            "attack_range": "微範囲"
+        }
     },
     {
         "image": "icon08.jpg",
@@ -411,7 +499,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "知識",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon08.jpg",
@@ -429,7 +521,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "移動キャラ",
+            "attack_range": ""
+        }
     },
     {
         "image": "icon09.jpg",
@@ -447,7 +543,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "知識",
+            "attack_range": "単体or範囲はペット次第"
+        }
     },
     {
         "image": "icon09.jpg",
@@ -465,7 +565,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "物理",
+            "attack_range": "単体or範囲はペット次第"
+        }
     },
     {
         "image": "icon09.jpg",
@@ -483,7 +587,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "ペット3体",
+            "attack_range": "全てはペット次第"
+        }
     },
     {
         "image": "icon10.jpg",
@@ -501,7 +609,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "知識",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon10.jpg",
@@ -519,7 +631,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "知識",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon10.jpg",
@@ -537,7 +653,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "知識",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon11.jpg",
@@ -555,7 +675,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "物理",
+            "attack_range": "単体"
+        }
     },
     {
         "image": "icon11.jpg",
@@ -573,7 +697,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "物理",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon11.jpg",
@@ -591,7 +719,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "物理",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon12.jpg",
@@ -609,7 +741,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "物理",
+            "attack_range": "単体"
+        }
     },
     {
         "image": "icon12.jpg",
@@ -627,7 +763,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "知識",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon12.jpg",
@@ -645,7 +785,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "物理",
+            "attack_range": "単体"
+        }
     },
     {
         "image": "icon13.jpg",
@@ -663,7 +807,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "物理",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon13.jpg",
@@ -681,7 +829,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "知識",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon13.jpg",
@@ -699,7 +851,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "物理",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon14.jpg",
@@ -717,7 +873,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "物理",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon14.jpg",
@@ -735,7 +895,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "知識",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon14.jpg",
@@ -753,7 +917,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "？？？",
+            "attack_range": ""
+        }
     },
     {
         "image": "icon15.jpg",
@@ -771,7 +939,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 1,
+        "tag": {
+            "attack_type": "物理",
+            "attack_range": "微範囲"
+        }
     },
     {
         "image": "icon15.jpg",
@@ -789,7 +961,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 1,
+        "tag": {
+            "attack_type": "知識",
+            "attack_range": "単体"
+        }
     },
     {
         "image": "icon15.jpg",
@@ -807,7 +983,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 2,
+        "tag": {
+            "attack_type": "知識",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon16.jpg",
@@ -825,7 +1005,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 2,
+        "tag": {
+            "attack_type": "知識",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon16.jpg",
@@ -843,7 +1027,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 2,
+        "tag": {
+            "attack_type": "知識",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon16.jpg",
@@ -861,7 +1049,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 5,
+        "tag": {
+            "attack_type": "知識",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon17.jpg",
@@ -879,7 +1071,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 4,
+        "tag": {
+            "attack_type": "物理",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon17.jpg",
@@ -897,7 +1093,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "知識",
+            "attack_range": "単体"
+        }
     },
     {
         "image": "icon17.jpg",
@@ -915,7 +1115,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 3,
+        "tag": {
+            "attack_type": "知識",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon18.jpg",
@@ -933,7 +1137,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "改変待ち",
+            "attack_range": ""
+        }
     },
     {
         "image": "icon18.jpg",
@@ -951,7 +1159,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "改変待ち",
+            "attack_range": ""
+        }
     },
     {
         "image": "icon18.jpg",
@@ -969,7 +1181,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "改変待ち",
+            "attack_range": ""
+        }
     },
     {
         "image": "icon19.jpg",
@@ -987,7 +1203,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 3,
+        "tag": {
+            "attack_type": "知識",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon19.jpg",
@@ -1005,7 +1225,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 1,
+        "tag": {
+            "attack_type": "物理",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon19.jpg",
@@ -1023,14 +1247,18 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 2,
+        "tag": {
+            "attack_type": "知識",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon20.jpg",
         "job": "獣人",
         "awakening": "イリュージョナリーアサルター",
         "equipment": {
-            "weapon": "DOP（Tダメ120）牽牛",
+            "weapon": "DOP(Tダメ120)牽牛",
             "sub_weapon": "[極意の]光弱化50ブロ",
             "neck": "WHP or WRS, [極意の]",
             "head": "T全吸収精霊王",
@@ -1041,7 +1269,11 @@
             "feet": "T忍耐スタチュー",
             "ring": "TRSや混沌指で補強"
         },
-        "evaluation": 0
+        "evaluation": 3,
+        "tag": {
+            "attack_type": "物理(知識追加ダメージ)",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon20.jpg",
@@ -1059,7 +1291,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 2,
+        "tag": {
+            "attack_type": "知識(物理追加ダメージ)",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon20.jpg",
@@ -1077,7 +1313,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "物理",
+            "attack_range": "範囲(カウンターパッシブ)"
+        }
     },
     {
         "image": "icon21.jpg",
@@ -1095,7 +1335,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "知識",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon21.jpg",
@@ -1113,7 +1357,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "物理",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon21.jpg",
@@ -1131,7 +1379,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "物理",
+            "attack_range": "単体"
+        }
     },
     {
         "image": "icon22.jpg",
@@ -1149,7 +1401,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 2,
+        "tag": {
+            "attack_type": "知識",
+            "attack_range": "単体"
+        }
     },
     {
         "image": "icon22.jpg",
@@ -1167,7 +1423,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 3,
+        "tag": {
+            "attack_type": "知識",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon22.jpg",
@@ -1185,7 +1445,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 2,
+        "tag": {
+            "attack_type": "知識",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon23.jpg",
@@ -1203,7 +1467,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "改変待ち",
+            "attack_range": ""
+        }
     },
     {
         "image": "icon23.jpg",
@@ -1221,7 +1489,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "改変待ち",
+            "attack_range": ""
+        }
     },
     {
         "image": "icon23.jpg",
@@ -1239,7 +1511,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "改変待ち",
+            "attack_range": ""
+        }
     },
     {
         "image": "icon24.jpg",
@@ -1257,7 +1533,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 2,
+        "tag": {
+            "attack_type": "知識",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon24.jpg",
@@ -1275,7 +1555,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 3,
+        "tag": {
+            "attack_type": "知識",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon24.jpg",
@@ -1293,7 +1577,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 4,
+        "tag": {
+            "attack_type": "知識",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon25.jpg",
@@ -1311,7 +1599,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 3,
+        "tag": {
+            "attack_type": "物理",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon25.jpg",
@@ -1329,7 +1621,11 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 4,
+        "tag": {
+            "attack_type": "知識",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "icon25.jpg",
@@ -1347,12 +1643,16 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 3,
+        "tag": {
+            "attack_type": "物理",
+            "attack_range": "範囲"
+        }
     },
     {
         "image": "hatena.png",
         "job": "キャプテンの裏職",
-        "awakening": "",
+        "awakening": "???",
         "equipment": {
             "weapon": "",
             "sub_weapon": "",
@@ -1365,12 +1665,16 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "未実装",
+            "attack_range": ""
+        }
     },
     {
         "image": "hatena.png",
         "job": "キャプテンの裏職",
-        "awakening": "",
+        "awakening": "???",
         "equipment": {
             "weapon": "",
             "sub_weapon": "",
@@ -1383,12 +1687,16 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "未実装",
+            "attack_range": ""
+        }
     },
     {
         "image": "hatena.png",
         "job": "キャプテンの裏職",
-        "awakening": "",
+        "awakening": "???",
         "equipment": {
             "weapon": "",
             "sub_weapon": "",
@@ -1401,6 +1709,10 @@
             "feet": "",
             "ring": ""
         },
-        "evaluation": 0
+        "evaluation": 0,
+        "tag": {
+            "attack_type": "未実装",
+            "attack_range": ""
+        }
     }
 ]

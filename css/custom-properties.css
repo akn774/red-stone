@@ -1,0 +1,24 @@
+:root {
+    /* 呼び出し方法 */
+    /* color: var(--unique-color); */
+
+    /* 色 */
+    --system-color: #00f8f8;
+    --option-color: #F8F800;
+    --unique-color: #E8C898;
+    --nx-unique-color: #CC6633;
+    --item-bg-color: #000000;
+    --rs-main-color: #521317;
+    --character-bg-color: #333;
+    --rs-red-color: #ff4753;
+
+    /* フォント周り */
+    --font-family: 'Kaisei Decol', serif;
+    --font-weight: 400;
+    --font-size: 16px;
+    --font-size-caption: 0.75rem;
+
+    /* 角丸 */
+    --border-radius: 8px;
+    --border-radius-tag: 16px;
+}
