@@ -3,10 +3,11 @@
 MMORPG「RED STONE」における、900Lv前後の装備案をまとめたリポジトリです。<br>
 GitHub Pagesで公開していますが、個人で使うために作成したものです。
  
-# DEMO
+# DEMO, MOVIE
  
- https://akn774.github.io/red-stone/main.html
-<!-- コメントアウトしたい内容 ![](https://cpp-learning.com/wp-content/uploads/2019/05/pyxel-190505-161951.gif)-->
+ https://akn774.github.io/red-stone/main.html<br>
+ ![ezgif-4-1263cc9b4a](https://github.com/akn774/red-stone/assets/139037735/8ca1b828-ab07-4741-862e-de80b5264b10)
+
  
 # Features
  
